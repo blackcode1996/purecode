@@ -18,7 +18,7 @@
 
 - At first, do a git clone of this repository.
 ```
-git clone https://github.com/blackcode1996/Marble.AI.git
+git clone https://github.com/blackcode1996/purecode.git
 ```
 - After cloning it into your local system install all node modules.
 ```
