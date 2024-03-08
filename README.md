@@ -29,4 +29,4 @@ npm i
 npm run dev
 ```
 
-For detailed documentation please visit = https://www.notion.so/Marble-Assignment-5d29cb2f9ef34f518dadf338b4236196
+For detailed documentation please visit = https://www.notion.so/Purecode-Assignment-5d29cb2f9ef34f518dadf338b4236196
