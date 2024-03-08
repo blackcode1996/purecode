@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Purecode Assignment</h1>
 
 
-<p align="center"><img src="https://github.com/blackcode1996/Marble.AI/assets/110044436/eef6e47b-1587-4236-882d-c8854174019a" alt="project-image" width="200" height="180/"></p>
+<p align="center"><img src="https://th.bing.com/th/id/OIP.7WKm134aw5PUkzg1GF8nFwAAAA?rs=1&pid=ImgDetMain" alt="project-image" width="200" height="180/"></p>
 
 
 ## :space_invader:Tech Stack Used:
