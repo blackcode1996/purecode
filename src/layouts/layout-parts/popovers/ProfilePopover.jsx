@@ -3,7 +3,6 @@ import AppAvatar from '../../../components/avatars/AppAvatar';
 import FlexBox from '../../../components/flexbox/FlexBox';
 import { H6, Small, Tiny } from '../../../components/Typography';
 import { Fragment, useRef, useState } from 'react';
-import toast from 'react-hot-toast';
 import PopoverLayout from './PopoverLayout'; // styled components
 
 const StyledButtonBase = styled(ButtonBase)(({
